@@ -88,7 +88,7 @@
 					</from>
 					<to>
 						<image>
-							registry.hub.docker.com/khamess/jenkins-repo-formation
+							registry.hub.docker.com/khamess/jenkins-repo-formation:${version}
 						</image>
 					</to>
 					<container>
